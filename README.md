@@ -29,3 +29,17 @@ Permutation importance helped me understand which features the model relied on. 
 ## Project Availability
 
 The original dataset, assessment instructions, and submission files are not included in this public repository. A public-data demonstration may be added separately.
+
+## Try the Feature Engineering
+
+This repository includes a small demonstration using synthetic basketball shots. No data from the internship assessment is included.
+
+To run it:
+
+1. Install the required packages:
+   `pip install pandas numpy`
+
+2. Run the example:
+   `python example.py`
+
+The example shows how the code assigns shot zones, combines shooter IDs with those zones, and calculates how much distance a defender closed before a shot.
